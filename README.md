@@ -1,2 +1,2 @@
 # Disappear
-Make all rice notes within a length of time visually disappear, because rhythm games need more pain and suffering.
+Upon hitting the first selected note, make all rice notes within a selected group visually disappear, because rhythm games need more pain and suffering.
